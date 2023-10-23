@@ -9,3 +9,5 @@ Create folders/files
 Create branch
 <br>
 Setup in local
+<br>
+Present Demo to the team
